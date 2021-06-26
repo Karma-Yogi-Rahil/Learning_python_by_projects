@@ -1,7 +1,7 @@
-Q1	What is the answer to this expression, 22 % 3 is?
+Q1 What is the answer to this expression, 22 % 3 is?
 Answer : 1
 
-Q2	What is the output of this expression, 3*1**3?
+Q2 What is the output of this expression, 3*1**3?
 Answer : 1
 
 Q3 What data type is the object below?
@@ -11,7 +11,6 @@ Answer list
 Q4 In order to store values in terms of key and value we use what core data type
 Answer Dictionary
 
-
 Q5 In which language is Python written?
 Answer c 
 
@@ -20,7 +19,6 @@ Answer #
 
 Q7 What is the method inside the class in python language?
 Answer Function
-
 
 Q8 Suppose listExample is [‘h’,’e’,’l’,’l’,’o’], what is len(listExample)?
 Answer 5 

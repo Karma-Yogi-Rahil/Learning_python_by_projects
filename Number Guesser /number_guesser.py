@@ -3,7 +3,7 @@ import random
 
 print("-----Let's play the Number Guessing game -----")
 
-#asking user the max number we wants to guess
+#asking user the max number they wants to guess
 upper_limit = int(input("Enter the upper limit of the number: "))
 
 #creating the random number 

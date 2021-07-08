@@ -1,5 +1,6 @@
 
 --------------------------Let's Start-----------------------------
+
 Type Rock/Paper/Sissors or 'q' to quit the Game: rock
 You and Computer both showed rock
 

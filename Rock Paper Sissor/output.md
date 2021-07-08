@@ -34,11 +34,15 @@ Type Rock/Paper/Sissors or 'q' to quit the Game: paper
 ---You Won!!--- 
 
 Type Rock/Paper/Sissors or 'q' to quit the Game: q
+
 ----------- Pls wait Quitting -----------
 
 ---------------------SCORE---------------------------
+
 Your score is:2
+
 The computer score is:1
+
 You tied with computer 7 times
 
 Thanks for playing the game , Untill we meet again 

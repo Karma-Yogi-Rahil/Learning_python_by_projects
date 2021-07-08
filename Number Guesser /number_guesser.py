@@ -9,7 +9,7 @@ upper_limit = int(input("Enter the upper limit of the number: "))
 #creating the random number 
 random_number = random.randint(0,upper_limit)
 
-#keeping th count the number of guess 
+#keeping th count of  the number of guess 
 total_guess = 0
 
 while True:

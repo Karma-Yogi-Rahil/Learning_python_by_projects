@@ -22,6 +22,5 @@ Here you can convert any Text input to Hand written image. It's simple project w
 
 ## Read More
 
-To read more about the PyWhatKit Python library click [here]((https://pypi.org/project/pywhatkit/)) 
-
+To read more about the PyWhatKit Python library click [here](https://pypi.org/project/pywhatkit/)
 

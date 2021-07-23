@@ -2,7 +2,7 @@
 
 ## About The Project
 
-![f](First_handwriiten.png.png)
+![f](Hanwritten.png)
 
 Here you can convert any Text input to Hand written image. It's simple project with cool output. If you have punisment of writing text n times , **BOOM!** No need to write **n** times **type once and its done**
 
